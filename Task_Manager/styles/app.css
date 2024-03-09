@@ -1,0 +1,21 @@
+html, body {
+    margin: 0px
+}
+
+main {
+    display: flex;
+    height: 100vh
+
+}
+#list{
+    background-color:violet;
+    flex: 6;
+}
+#form{
+    background-color: grey;
+    flex: 6;
+}
+
+.btn-color {
+    background-color: red;
+}
